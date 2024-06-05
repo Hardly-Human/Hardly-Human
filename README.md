@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=9000&pause=1000&width=850&lines=Hi%2C+I'm+Rehan.+A+passionate++DevOps+Engineer+and+Full+Stack+Developer.)](https://git.io/typing-svg)
 
-I'm a Devops engineer with 2+ years of experience in architecting and optimizing cloud-based solutions to drive seamless deployments and enhance operational efficiency.
+I'm a Devops engineer with 3+ years of experience in architecting and optimizing cloud-based solutions to drive seamless deployments and enhance operational efficiency.
 
 - 🔭 I’m currently pursuing Post-Graduate Diploma in Cloud Computing at Calgary, Canada
 - 💬 Ask me about anything [here](https://github.com/Hardly-Human/Hardly-Human/issues/new?assignees=Hardly-Human&labels=Say+Hello&template=say-hello.md&title=Hey%2C+I+am+<Your+Name>.)
